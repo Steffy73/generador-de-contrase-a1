@@ -1,7 +1,7 @@
 
 from random import *
 print("bienvenido a tu generador de contraseña")
-
+print("genera tu contaseña a lasar") 
 number = input("ingrese cantidad de contraseña: ")
 number = int("number") 
 
